@@ -9,7 +9,6 @@ I'm highly interested in advancing my skills in software development. I enjoy di
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPortfolioWebsite](http://akileshjayakumar.vercel.app)
 * ✉️  You can contact me at [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
-* 🧠  I'm learning NLTK, TensorFlow, NumPy
 
 ### Skills
 
