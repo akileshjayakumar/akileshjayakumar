@@ -7,7 +7,7 @@ CS @ UOW | Big Data | Cybersecurity
 I'm highly interested in advancing my skills in software development. I enjoy diving deeper into this field and actively contributing to projects. Motivated and eager to tackle new challenges, I always seek opportunities to improve my abilities and learn. Let's connect!
 
 * 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [MyPortfolioWebsite](http://akileshjayakumar.vercel.app)
+* 🖥️  See my portfolio at [MyPersonalPortfolioWebsite](http://akileshjayakumar.vercel.app)
 * ✉️  You can contact me at [jayakuma006@mymail.sim.edu.sg](mailto:jayakuma006@mymail.sim.edu.sg)
 
 ### Skills
