@@ -1,8 +1,11 @@
-Hi. My name is Akilesh Jayakumar
+Hey! My name is Akilesh Jayakumar
 =========================================================================================================================================
 
 CS @ UOW | Big Data | Cybersecurity
 -----------------------------------
+
+
+### About
 
 I'm highly interested in advancing my skills in software development. I enjoy diving deeper into this field and actively contributing to projects. Motivated and eager to tackle new challenges, I always seek opportunities to improve my abilities and learn. Let's connect!
 
