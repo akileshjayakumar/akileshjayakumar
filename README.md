@@ -5,7 +5,7 @@ CS @ UOW | Big Data | Cybersecurity
 
 ### About
 
-I'm highly interested in advancing my skills in software development. I enjoy diving deeper into this field and actively contributing to projects. Motivated and eager to tackle new challenges, I always seek opportunities to improve my abilities and learn. Let's connect!
+Hello there! I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus), focusing on Big Data and Cybersecurity. I'm always up for taking on fresh challenges and am constantly on the lookout for opportunities to learn and grow my skill set.
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPersonalPortfolioWebsite](http://akileshjayakumar.vercel.app)
