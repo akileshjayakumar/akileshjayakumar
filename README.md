@@ -1,4 +1,4 @@
-Hey! My name is Akilesh Jayakumar
+# Hi, I'm Akilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 =========================================================================================================================================
 
 CS @ UOW | Big Data | Cybersecurity
