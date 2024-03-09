@@ -19,6 +19,8 @@
   ✉️  You can contact me at <a href="mailto:jayakuma006@mymail.sim.edu.sg">jayakuma006@mymail.sim.edu.sg</a>
 </p>
 
+---
+
 <h2>SKILLS</h2>
 
 <p>
@@ -34,6 +36,8 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
 </p>
 
+---
+
 <h2>SOCIALS</h2>
 
 <p>
@@ -45,6 +49,8 @@
   </a>
 </p>
 
+---
+
 <h2>BADGES</h2>
 
 <p>
@@ -52,5 +58,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshjayakumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
+
+---
 
 </div>
