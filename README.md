@@ -13,9 +13,8 @@
 ### about-me
 
 <p>
-  👨‍💻  I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus), focusing on Big Data and Cybersecurity.<br>
-  🌍  I'm based in Singapore.<br>
-  🖥️  See my portfolio website at <a href="https://akileshjayakumar.vercel.app">http://akileshjayakumar.vercel.app</a><br>
+  👨‍💻  I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus).
+  🖥️  See my portfolio website at <a href="https://akileshjayakumar.vercel.app">https://akileshjayakumar.vercel.app</a><br>
 </p>
 
 <br>
