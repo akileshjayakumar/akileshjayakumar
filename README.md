@@ -1,10 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akilesh Jayakumar
-=========================================================================================================================================
+<div align="center">
 
-CS @ UOW | Big Data | Cybersecurity
------------------------------------
+# Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Akilesh Jayakumar
 
-<hr>
+### CS @ UOW | Big Data | Cybersecurity
+
+</div>
+
+---
 
 <p align="center" style="font-size: 20px;">
   <strong>About</strong><br><br>
