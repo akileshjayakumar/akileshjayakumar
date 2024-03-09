@@ -1,5 +1,8 @@
-* Hi, I'm Akilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"><br>
-* CS @ UOW | Big Data | Cybersecurity</span>
+<p align="center" style="font-size: 48px;">
+  Hi, I'm Akilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50px" width="50px"><br>
+  CS @ UOW | Big Data | Cybersecurity
+</p>
+
 
 <hr>
 
