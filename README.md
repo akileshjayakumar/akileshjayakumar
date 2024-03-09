@@ -36,7 +36,7 @@
 
 <p>
   <a href="https://twitter.com/StrangeDoctorGo" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twiiter.svg" width="32" height="32" /> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /> 
   </a>
   <a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
