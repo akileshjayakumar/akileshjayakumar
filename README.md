@@ -8,8 +8,6 @@
 
 <div align="left">
   
-<br>
-  
 ### about-me
 
 <p>
