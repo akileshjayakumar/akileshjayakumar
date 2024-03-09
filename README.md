@@ -9,7 +9,7 @@
 ---
 
 <p align="center" style="font-size: 20px;">
-  <strong>About</strong><br><br>
+  <br><br><strong>About</strong><br><br>
   I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus), focusing on Big Data and Cybersecurity. I'm always up for taking on fresh challenges and am constantly on the lookout for opportunities to learn and grow my skill set.<br><br>
   🌍  I'm based in Singapore<br>
   🖥️  See my portfolio at <a href="http://akileshjayakumar.vercel.app">MyPersonalPortfolioWebsite</a><br>
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center" style="font-size: 20px; display: flex; justify-content: space-evenly; flex-wrap: wrap;">
-  <strong>Skills</strong><br><br>
+  <br><br><strong>Skills</strong><br><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" /></a>
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center" style="font-size: 20px; display:flex; justify-content:space-evenly; gap:20px;">
-  <strong>Socials</strong><br><br>
+  <br><br><strong>Socials</strong><br><br>
   <a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
   </a> 
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center" style="font-size: 20px; display:flex; justify-content:space-evenly; gap:20px;">
-  <strong>Badges</strong><br><br>
+  <br><br><strong>Badges</strong><br><br>
   <a href="https://github.com/akileshjayakumar" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshjayakumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
