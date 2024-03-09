@@ -1,19 +1,19 @@
-<p align="center" style="font-size: 24px; font-weight: bold;">
+<p align="center" style="font-size: 28px; font-weight: bold;">
   Hi, I'm Akilesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" width="30px"><br>
-  <span style="font-size: 18px;">CS @ UOW | Big Data | Cybersecurity</span>
+  <span style="font-size: 22px;">CS @ UOW | Big Data | Cybersecurity</span>
 </p>
 
 <hr>
 
-<p align="center" style="font-size: 16px;">
-  <strong>About</strong><br>
+<p align="center" style="font-size: 20px;">
+  <strong>About</strong><br><br>
   I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus), focusing on Big Data and Cybersecurity. I'm always up for taking on fresh challenges and am constantly on the lookout for opportunities to learn and grow my skill set.<br><br>
   🌍  I'm based in Singapore<br>
   🖥️  See my portfolio at <a href="http://akileshjayakumar.vercel.app">MyPersonalPortfolioWebsite</a><br>
   ✉️  You can contact me at <a href="mailto:jayakuma006@mymail.sim.edu.sg">jayakuma006@mymail.sim.edu.sg</a>
 </p>
 
-<p align="center" style="font-size: 16px; display:flex; justify-content:center; gap:20px; flex-wrap: wrap;">
+<p align="center" style="font-size: 20px; display:flex; justify-content:center; gap:20px; flex-wrap: wrap;">
   <strong>Skills</strong><br><br>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
@@ -27,7 +27,7 @@
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
 </p>
 
-<p align="center" style="font-size: 16px; display:flex; justify-content:center; gap:20px;">
+<p align="center" style="font-size: 20px; display:flex; justify-content:center; gap:20px;">
   <strong>Socials</strong><br><br>
   <a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
