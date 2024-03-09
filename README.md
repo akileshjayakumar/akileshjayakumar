@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hi! I'm Akilesh! 👋
 
@@ -6,11 +6,11 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   
 <br>
   
-### about
+### about-me
 
 <p>
   👨‍💻  I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus), focusing on Big Data and Cybersecurity.<br>
