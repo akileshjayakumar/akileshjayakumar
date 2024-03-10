@@ -32,18 +32,6 @@
 
 <br>
 
-### socials
-<p>
-  <a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-  </a> 
-  <a href="https://www.linkedin.com/in/akileshjayakumar" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-  </a>
-</p>
-
-<br>
-
 ### badges
 <p>
   <a href="https://github.com/akileshjayakumar" align="left">
