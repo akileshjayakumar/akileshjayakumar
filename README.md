@@ -9,7 +9,6 @@
 <div align="left">
   
 ### about-me
-
 <p>
   👨‍💻  i am currently a final-year computer-science student at the University of Wollongong (SIM Campus).<br><br>
   🖥️  see my portfolio website at <a href="https://akileshjayakumar.vercel.app">https://akileshjayakumar.vercel.app</a>
@@ -18,7 +17,6 @@
 <br>
 
 ### skills
-
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
@@ -35,7 +33,6 @@
 <br>
 
 ### socials
-
 <p>
   <a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
@@ -48,11 +45,9 @@
 <br>
 
 ### badges
-
 <p>
   <a href="https://github.com/akileshjayakumar" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshjayakumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </p>
-
 </div>
