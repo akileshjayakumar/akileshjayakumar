@@ -11,7 +11,7 @@
 ### about-me
 
 <p>
-  👨‍💻  I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus).<br>
+  👨‍💻  I'm currently a final-year Computer Science student at the University of Wollongong (SIM Campus).<br><br>
   🖥️  See my portfolio website at <a href="https://akileshjayakumar.vercel.app">https://akileshjayakumar.vercel.app</a><br>
 </p>
 
