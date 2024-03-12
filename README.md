@@ -14,8 +14,6 @@
   🖥️  see my portfolio website at <a href="https://akileshjayakumar.vercel.app">https://akileshjayakumar.vercel.app</a>
 </p>
 
-<br>
-
 ### skills
 <p>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
@@ -29,8 +27,6 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="NodeJS" /></a>
 </p>
-
-<br>
 
 ### badges
 <p>
