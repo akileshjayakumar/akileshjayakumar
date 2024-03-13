@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=hi,+i'm+akilesh!;+என்+பெயர்+அகிலேஷ்!;+我的名字是阿基莱什!;+i+am+passionate+about+software+engineering+and+cybersecurity.;+i+enjoy+learning+new+technologies+and+frameworks.;+i+am+currently+learning+aws.;+i+love+solving+puzzles+and+3x3+rubik's+cube.;+cardistry+and+magi+tricks+are+my+hobbies.;+i+am+an+avid+fan+of+sci-fi+and+comic+book+movies.;+let's+connect!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=70&duration=4000&lines=hi,+i'm+akilesh!;+என்+பெயர்+அகிலேஷ்!;+我的名字是阿基莱什!;+i+am+passionate+about+software+engineering+and+cybersecurity.;+i+enjoy+learning+new+technologies+and+frameworks.;+i+am+currently+learning+aws.;+i+love+solving+puzzles+and+3x3+rubik's+cube.;+cardistry+and+magi+tricks+are+my+hobbies.;+i+am+an+avid+fan+of+sci-fi+and+comic+book+movies.;+let's+connect!;" />
 </h1>
  
 <div align="center"> 
