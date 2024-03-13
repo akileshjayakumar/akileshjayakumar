@@ -1,19 +1,17 @@
 <div align="center">
-  Hi 👋 My name is Akilesh Jayakumar
-===============================
 
-CS @ UOW
------------------------------
+# Hi 👋 My name is Akilesh Jayakumar
 
-* 🌍  I'm based in Singapore
-* 🖥️  See my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com)
-* ✉️  You can contact me at [jayakuma006@mymail.sim.edu.sg](jayakuma006@mymail.sim.edu.sg)
-* 🚀  I'm currently learning AWS.
-* 🤝  I'm open to collaborating on exciting projects as a frontend developer.
+## CS @ UOW
+
+🌍  i'm based in singapore.<br>
+🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com).<br>
+🚀  i'm currently learning aws.<br>
+🤝  i'm open to collaborating on exciting projects as a frontend developer.
 
 ### Skills
 
-<p align="left">
+<p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
