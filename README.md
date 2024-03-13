@@ -4,6 +4,10 @@
 
 ## CS @ UOW
 
+<br>
+
+### About Me
+
 🌍  i'm based in singapore.<br>
 🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com).<br>
 🚀  i'm currently learning aws.<br>
