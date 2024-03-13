@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 My name is Akilesh Jayakumar
+# Hi! My name is Akilesh Jayakumar.
 
 ## CS @ UOW
 
@@ -9,7 +9,9 @@
 🚀  i'm currently learning aws.<br>
 🤝  i'm open to collaborating on exciting projects as a frontend developer.
 
-### Skills
+<br>
+
+### Skills | Languages | Tools
 
 <p>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -27,13 +29,14 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
+<br>
+
 ### Badges
 
-<a href="https://akileshjayakumar.com">
-  <img align="center" height="130em" src="https://github-readme-stats-akileshjayakumar.vercel.app/api?username=akileshjayakumar&theme=github_dark&hide_border=true&count_private=true&hide_title=true&show_icons=true&hide=stars" />
-</a>
-<a href="https://akileshjayakumar.com">
-  <img align="center" height="130em" src="https://github-readme-stats-akileshjayakumar.vercel.app/api/top-langs/?username=akileshjayakumar&theme=github_dark&hide_border=true&count_private=true&hide_title=true&layout=compact&exclude_repo=test&hide=c%2b%2b,cmake,html,css&langs_count=6" />
-</a>
+<a href="http://www.github.com/akileshjayakumar"><img src="https://github-readme-stats.vercel.app/api?username=akileshjayakumar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akileshjayakumar's GitHub stats" /></a>
+
+<a href="http://www.github.com/akileshjayakumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akileshjayakumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/akileshjayakumar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akileshjayakumar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 </div>
