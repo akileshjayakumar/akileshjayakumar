@@ -10,9 +10,6 @@ CS @ UOW
 * 🚀  I'm currently learning AWS.
 * 🤝  I'm open to collaborating on exciting projects as a frontend developer.
 
-<a href="https://www.github.com/akileshjayakumar" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/danielcranney?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
