@@ -29,8 +29,11 @@
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/akileshjayakumar"><img src="https://github-readme-stats.vercel.app/api?username=akileshjayakumar&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="akileshjayakumar's GitHub stats" /></a>
+<a href="https://akileshjayakumar.com">
+  <img align="center" height="130em" src="https://github-readme-stats-akileshjayakumar.vercel.app/api?username=akileshjayakumar&theme=github_dark&hide_border=true&count_private=true&hide_title=true&show_icons=true&hide=stars" />
+</a>
+<a href="https://akileshjayakumar.com">
+  <img align="center" height="130em" src="https://github-readme-stats-akileshjayakumar.vercel.app/api/top-langs/?username=akileshjayakumar&theme=github_dark&hide_border=true&count_private=true&hide_title=true&layout=compact&exclude_repo=test&hide=c%2b%2b,cmake,html,css&langs_count=6" />
+</a>
 
 </div>
