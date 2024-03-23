@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! My name is Akilesh Jayakumar.
+# hi, i'm akilesh jayakumar
 
 ### About Me
 
