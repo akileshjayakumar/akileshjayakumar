@@ -9,8 +9,6 @@
 🚀  i'm currently learning aws.<br>
 🤝  i'm open to collaborating on exciting projects as a frontend developer.
 
-<br>
-
 ### Skills | Languages | Tools
 
 <p>
