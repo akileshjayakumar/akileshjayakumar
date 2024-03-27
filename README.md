@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # hi, i'm akilesh jayakumar
 
@@ -6,8 +6,6 @@
 
 🌍  i'm based in singapore.<br>
 🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com).<br>
-🚀  i'm currently learning aws.<br>
-🤝  i'm open to collaborating on exciting projects as a frontend developer.
 
 ### Skills | Languages | Tools
 
