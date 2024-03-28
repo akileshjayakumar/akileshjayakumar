@@ -1,7 +1,5 @@
 <div align="left">
 
-### About Me
-
 # hi, i'm akilesh jayakumar
 
 🌍  i'm based in singapore.<br>
