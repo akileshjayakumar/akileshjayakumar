@@ -1,8 +1,8 @@
-<div align="left">
-
 ### Hi there! I'm Akilesh 👋
 
 ---
+
+<div align="left">
 
 🌍  i'm based in singapore. <br>
 🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com). <br>
