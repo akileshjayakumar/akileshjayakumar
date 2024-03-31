@@ -1,9 +1,11 @@
 <div align="left">
 
-# hi, i'm akilesh jayakumar
+### Hi there! I'm Akilesh 👋
 
-🌍  i'm based in singapore.<br>
-🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com).<br>
+---
+
+🌍  i'm based in singapore. <br>
+🖥️  see my portfolio at [akileshjayakumar.com](https://akileshjayakumar.com). <br>
 
 ### Skills
 
