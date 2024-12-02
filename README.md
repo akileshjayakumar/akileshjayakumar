@@ -15,10 +15,11 @@
     />
   </a>
 
-  <a href="https://www.akileshjayakumar.com">
+  <a href="https://git.io/streak-stats">
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=akileshjayakumar&theme=github-dark&hide_border=false&mode=weekly&card_width=1000&card_height=500" 
-      alt="GitHub Streak"
+      height="130em" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=akileshjayakumar&theme=github-dark&hide_border=false&mode=weekly&card_width=800&card_height=200" 
+      alt="GitHub Streak" 
     />
   </a>
 </div>
