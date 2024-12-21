@@ -17,7 +17,7 @@
 
   <a href="https://akileshjayakumar.com">
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=akileshjayakumar&theme=github-dark&hide_border=false&mode=weekly&card_width=800&card_height=300" 
+      src="https://github-readme-streak-stats.herokuapp.com?user=akileshjayakumar&theme=github-dark&hide_border=false&mode=weekly&card_width=800&card_height=200" 
       alt="GitHub Streak" 
     />
   </a>
